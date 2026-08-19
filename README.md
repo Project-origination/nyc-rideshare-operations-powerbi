@@ -140,7 +140,7 @@ Source: [NYC Taxi & Limousine Commission Trip Record Data](https://www.nyc.gov/s
 
 The raw Parquet dataset and Power BI file are not stored directly in this repository because of their file sizes.
 
-This repository contains the project documentation and dashboard screenshots. A downloadable Power BI file may be provided separately through a GitHub Release.
+This repository contains the project documentation and dashboard screenshots.The Power BI .pbix file is available upon request.
 
 ## Author
 
