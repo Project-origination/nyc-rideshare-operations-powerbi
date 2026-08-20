@@ -79,6 +79,8 @@ Evaluates operational efficiency using:
 
 The report uses a star-schema-inspired model containing:
 
+![Power BI data model](images/data-model.PNG)
+
 * `FactTrips` — trip-level operational and financial records
 * `DimDate` — calendar attributes used for date analysis
 * `DimPickupZone` — pickup-zone geography
